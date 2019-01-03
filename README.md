@@ -1,6 +1,6 @@
 # This repo consist of all basic to advance javscript project 
 
-#Technology Stack
+##Technology Stack
 *HTML
 *CSS
 *JAVA SCRIPT
